@@ -1,5 +1,5 @@
 # Coursera
 
-## Editing the file 
+## Work from Coursera Courses
 
-Its a Markdown file in the repository!
+I am currently completeing the Data Science Fundamentals with Python and SQL Specialization by IBM and the Google Data Analytics Professional Certificate. Here I will be uploading work completed from my courses.
